@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai>=1.0.0
+python-dotenv
+gtts
+requests
+urllib3==1.26.16
+firebase-admin
+moviepy
